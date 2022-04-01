@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
               width: 80,
               color: Colors.blue,
               child: const Center( child: Text(
-                'Columna',
+                'Column',
                 style: TextStyle(color: Colors.black, fontSize: 20.0),
               ),
               ),
